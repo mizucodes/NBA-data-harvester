@@ -1,4 +1,4 @@
-# NBA Player Data Fetcher
+# NBA Player Data Harvester
 
 ## Description
 
