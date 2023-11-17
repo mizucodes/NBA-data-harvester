@@ -4,6 +4,8 @@
 
 This Python script retrieves data for NBA players using the balldontlie.io API and saves the data to CSV files. It fetches data for 60 players at a time, starting with player ID 1 and incrementing the player ID by 60 for each subsequent request. The data is saved in files named `player1.csv`, `player2.csv`, and so on, until player ID 5000.
 
+Link to balldontlie github: https://github.com/ynnadkrap/balldontlie
+
 ## Requirements
 
 - Python 3
